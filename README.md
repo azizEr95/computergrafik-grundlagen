@@ -42,7 +42,7 @@ Die Themen sind jeweils in Unterordner unterteilt:
 8. **Beschleunigung**
     In der letzten Aufgabe führten wir eine Hüllkörper-Hierarchie ein, um die Berechnungszeit für das Rendern von Szenen mit 1000 Shapes auf c.a. 17 Sekunden zu reduzieren.
 
-    ![Szene mit 10.000 Kugeln](images/H_beschleunigung-scene-10000.png)
+    ![Szene mit 10.000 Kugeln](images/H_beschleunigung-scene-1000.png)
 
 ## Technologien
     - Java Version 21
